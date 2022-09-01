@@ -9,5 +9,5 @@ package main;
  * @author Asmhi
  */
 public class main {
-    
+
 }
