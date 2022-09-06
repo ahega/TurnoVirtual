@@ -4,12 +4,13 @@
  */
 package main;
 
-/**
- *
- * @author Asmhi
- */
+
 public class main {
 //// coemntari rama develop
 
     //// avancen clase empresa
+    public static void main(String[] args) {
+        //creacion clase main
+    }
+
 }
